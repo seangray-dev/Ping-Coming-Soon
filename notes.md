@@ -1,0 +1,5 @@
+- Form submission
+- Check email validation and override browser default settings.
+- Accessibility for form
+- Add dark mode
+- Link to JS in head
