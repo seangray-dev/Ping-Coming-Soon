@@ -10,7 +10,6 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
   - [Links](#links)
   - [Built with](#built-with)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-7VJ2EFWXUg)
-- Live Site URL: [Add live site URL here](https://seangray-dev.github.io/Ping-Coming-Soon/)
+- Solution URL: [https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-7VJ2EFWXUg](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-7VJ2EFWXUg)
+- Live Site URL: [https://seangray-dev.github.io/Ping-Coming-Soon/](https://seangray-dev.github.io/Ping-Coming-Soon/)
 
 ### Built with
 
